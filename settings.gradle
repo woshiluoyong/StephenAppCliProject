@@ -1,2 +1,2 @@
 include ':app', ':okhttputils', ':XyPushModule'
-rootProject.name='StephenAppCarHailing'
+rootProject.name='StephenAppCliProject'
