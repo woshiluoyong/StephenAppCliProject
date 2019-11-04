@@ -1,6 +1,7 @@
 # Stephen的Android框架(脚手架)项目说明
 ## 本项目是一个成熟的商业项目里面提炼出来的框架项目,替换了项目接口为"https://www.apiopen.top/api.html#780786078b064fbaa278719abedba7bd"里面的免费测试接口
-## 包含我的常用的公共库，集成下拉刷新/上拉加载，加入了分享弹框及逻辑(包含微信/朋友圈/qq/微博)，添加了一个登录界面，目前是游客模式，本项目为脚手架项目,直接下载即可在里面新加页面愉快的开发
+### 项目包含我的常用的公共库，以及我封装的聚合push库(极光/华为/小米/vivo/Oppo)及封装的websocket库(基于okhttp底层支持实现),集成强大的智能下拉刷新/上拉加载库和腾讯的QMUI控件库,还有检查更新逻辑及弹框下载等,集成了分享弹框及逻辑(包含微信/朋友圈/qq/微博)，加入了腾讯的bugly线上崩溃库,界面方面我添加了一个登录界面做演示用，目前整体支持游客模式，
+### 本项目为脚手架项目,直接Clone下载熟悉哈清晰完美的代码流程,即可在里面新加页面愉快的开发
 * 惯例，先上图（如果图抽风没展示出来，请在screenShot文件夹下查看）：
 ![image](https://github.com/woshiluoyong/StephenAppCarHailing/blob/master/screenShot/1.png)
 ![image](https://github.com/jeasonlzy/Screenshots/blob/master/okgo/demo13.gif)
