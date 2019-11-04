@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"> <!-- pressed the button status -->
+        <shape android:shape="rectangle">
+            <corners android:radius="25dp" />
+            <solid android:color="@color/colorTheme2"/>
+        </shape>
+    </item>
+    <item> <!-- no focus the button status(the normal status button) -->
+        <shape android:shape="rectangle">
+            <corners android:radius="25dp" />
+            <solid android:color="@color/colorTheme"/>
+        </shape>
+    </item>
+</selector>

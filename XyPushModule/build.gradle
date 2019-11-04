@@ -1,0 +1,34 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+
+    defaultConfig {
+        /*applicationId "com.xyebank.stephen.push"*/
+        minSdkVersion 16
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+
+        ndk {//选择要添加的对应 cpu 类型的 .so 库。还可以添加 'x86', 'x86_64', 'mips', 'mips64'
+            abiFilters 'armeabi', 'armeabi-v7a', 'arm64-v8a'
+        }
+    }
+
+    lintOptions {
+        disable 'LongLogTag'
+        disable 'GoogleAppIndexingWarning'
+        //baseline file("lint-baseline.xml")
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    api files('libs/vivo_pushsdk_v2.3.4.jar')
+    api files('libs/oppo_pushsdk.jar')
+    api files('libs/MiPush_SDK_Client_3_6_18.jar')
+    api 'com.huawei.android.hms:push:2.6.3.301'
+    api 'cn.jiguang.sdk:jpush:3.3.1'
+    api 'cn.jiguang.sdk:jcore:2.0.1'
+}

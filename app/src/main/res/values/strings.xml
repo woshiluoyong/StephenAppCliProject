@@ -1,0 +1,29 @@
+<resources>
+  <string name="app_name">Stephen框架项目</string>
+
+  <string name="cancel">取消</string>
+  <string name="confirm">确认</string>
+  <string name="info">提示</string>
+  <string name="i_know">我知道了</string>
+  <string name="count_downing_hint">倒计时中,请等待停止!</string>
+  <string name="fast_press_exit">再快速按一次退出</string>
+
+  <string name="no_data_hint">暂无数据!</string>
+  <string name="param_error_hint">参数异常,请重新进入!</string>
+  <string name="request_exception_info">请求异常,请重试!</string>
+  <string name="request_fail_info">请求失败,请重试!</string>
+  <string name="net_work_connect_fail">网络连接出现问题!</string>
+  <string name="request_data_exception">请求异常啦!</string>
+  <string name="request_data_error">解析数据异常!</string>
+  <string name="not_login_hint">请先登陆!</string>
+  <string name="token_expires_hint">会话已过期或失效!</string>
+  <string name="need_permission_hint">暂无访问权限!</string>
+  <string name="re_login">重新登录!</string>
+
+  <string name="share_now">立即分享</string>
+  <string name="share_wx_not_hint">未安装微信,无法分享给好友</string>
+  <string name="share_moment_not_hint">未安装微信,无法分享到朋友圈</string>
+  <string name="share_sina_not_hint">未安装微博,无法分享到微博</string>
+  <string name="share_qq_not_hint">未安装QQ,无法分享到QQ</string>
+  <string name="share_flag_not_match">分享标识错误,无法分享</string>
+</resources>
