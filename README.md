@@ -18,7 +18,7 @@
 > 绝对会是你所需要的
 
 * 惯例，先上图(如果截图抽风没展示出来，请在screenShot文件夹下查看):
-![Demo截图](https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![Demo截图]<img src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/1.jpg" width="300" height="450" />
 ![Demo截图](https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/2.jpg)
 ![Demo截图](https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/3.jpg)
 ![Demo截图](https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/4.jpg)
