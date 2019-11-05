@@ -18,11 +18,11 @@
 > 绝对会是你所需要的
 
 * 惯例，先上图(如果截图抽风没展示出来，请在screenShot文件夹下查看):
-![Demo截图]<img src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/1.jpg" width="300" height="450" />
-![Demo截图](https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/2.jpg)
-![Demo截图](https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/3.jpg)
-![Demo截图](https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/4.jpg)
-![Demo截图](https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/5.jpg)
+<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/1.jpg" width="300" height="450" />
+<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/2.jpg" width="300" height="450" />
+<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/3.jpg" width="300" height="450" />
+<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/4.jpg" width="300" height="450" />
+<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/5.jpg" width="300" height="450" />
 
 * 项目封装了:
 * 集成了网络请求OkhttpUtils框架，封装了请求逻辑，请求时是否显示loading可分别在每个请求控制，分页参数也只需传当前第几页即可，请求参数/回参都做了输出，可在logcat里面过滤标识可见，有多个重载方法，力求在网络请求上只做到关心业务逻辑即可，例如项目演示的例子
