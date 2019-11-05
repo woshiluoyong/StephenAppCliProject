@@ -1,5 +1,5 @@
 # Stephen的Android框架(脚手架)项目说明
-> 本项目是一个成熟的商业项目里面提炼出来的框架项目,替换了之前真实项目接口为![测试接口](https://www.apiopen.top/api.html#780786078b064fbaa278719abedba7bd)里面的免费测试接口
+> 本项目是一个成熟的商业项目里面提炼出来的框架项目,替换了之前真实项目接口为[测试接口](https://www.apiopen.top/api.html#780786078b064fbaa278719abedba7bd)里面的免费测试接口
 > 项目包含我的常用的公共库
 > 我封装的聚合push库(极光/华为/小米/vivo/Oppo)
 > 封装的websocket库(基于okhttp底层支持实现)
