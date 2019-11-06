@@ -28,14 +28,21 @@
 
 > 即可在里面新加页面愉快的开发!!相信稍微看哈本库的代码逻辑
 
-> 绝对会是你所需要的
+> 绝对会是你所需要的,具体clone项目体验绝对巴适!
 
-* 惯例，先上图(如果截图抽风没展示出来，请在screenShot文件夹下查看):
-<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/1.jpg" width="300" height="450" />
-<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/2.jpg" width="300" height="450" />
-<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/3.jpg" width="300" height="450" />
-<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/4.jpg" width="300" height="450" />
-<img alt="Demo截图" src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/5.jpg" width="300" height="450" />
+### 如果有任何使用问题,可扫码以下微信二维码联系我(请备注"来自github"),热枕为您解答
+![作者二维码](https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/my_wx_code.jpg)
+
+>> ## 本项目框架已成功应用于"kk比分"App,应用市场或百度搜索"kk比分"或者点击链接[kk比分下载页](http://invite.bifenkk.com/share.html)下载App体验
+
+>> ### 最后，展示截图(如果截图抽风没展示出来，请在screenShot文件夹下查看):
+<p>
+	<img src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/1.jpg" alt="Demo截图"  width="160" height="300">
+    <img src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/2.jpg" alt="Demo截图"  width="160" height="300">
+    <img src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/3.jpg" alt="Demo截图"  width="160" height="300">
+    <img src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/4.jpg" alt="Demo截图"  width="160" height="300">
+    <img src="https://github.com/woshiluoyong/StephenAppCliProject/blob/master/screenShot/5.jpg" alt="Demo截图"  width="160" height="300">
+</p>
 
 * 项目封装了:
 * 集成了网络请求OkhttpUtils框架，封装了请求逻辑，请求时是否显示loading可分别在每个请求控制，分页参数也只需传当前第几页即可，请求参数/回参都做了输出，可在logcat里面过滤标识可见，有多个重载方法，力求在网络请求上只做到关心业务逻辑即可，例如项目演示的例子
